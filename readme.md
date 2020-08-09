@@ -41,8 +41,10 @@
     <a href="readme_de.md">Deutsch</a>
     ·
     <a href="readme_ja.md">日本語</a>
-     ·
+    ·
     <a href="readme_pt-BR.md">Português Brasileiro</a>
+    ·
+    <a href="readme_kr.md">한국어</a>
   </p>
 </p>
 <p align="center">Loved the project? Please consider <a href="https://www.paypal.me/anuraghazra">donating</a> to help it improve!
@@ -125,7 +127,7 @@ You can customize the appearance of your `Stats Card` or `Repo Card` however you
 - `title_color` - Card's title color _(hex color)_
 - `text_color` - Body text color _(hex color)_
 - `icon_color` - Icons color if available _(hex color)_
-- `bg_color` - Card's background color _(hex color)_
+- `bg_color` - Card's background color _(hex color)_ **or** a gradient in the form of _angle,start,end_
 - `theme` - name of the theme, choose from [all available themes](./themes/README.md)
 - `cache_seconds` - set the cache header manually _(min: 1800, max: 86400)_
 

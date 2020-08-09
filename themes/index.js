@@ -155,6 +155,24 @@ const themes = {
     text_color: "99d1ce",
     bg_color: "0c1014",
   },
+  "material-palenight": {
+    title_color: "c792ea",
+    icon_color: "89ddff",
+    text_color: "a6accd",
+    bg_color: "292d3e",
+  },
+  "graywhite": {
+    title_color: "24292e",
+    icon_color: "24292e",
+    text_color: "24292e",
+    bg_color: "ffffff",
+  },
+  "vue-dark":{
+    title_color: "19f9d8",
+    icon_color: "19f9d8",
+    text_color: "ffffff",
+    bg_color: "002b36",
+  }
 };
 
 module.exports = themes;
